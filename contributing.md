@@ -160,6 +160,6 @@ README.txt           빠른 참조
 
 ---
 
-*Ryujinx 펌웨어 · 업데이트 2026-11-08 · MIT 라이선스로 공유*
+*Ryujinx 펌웨어 · 업데이트 2026-11-09 · MIT 라이선스로 공유*
 
-<!-- last reviewed 2026-11-08 -->
+<!-- last reviewed 2026-11-09 -->
